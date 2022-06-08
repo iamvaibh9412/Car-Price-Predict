@@ -1,0 +1,4 @@
+get the dataset from the link given below.
+just copy and paste the link in pd.read_csv(" LINK ")
+
+link :-  https://raw.githubusercontent.com/rajtilakls2510/car_price_predictor/master/quikr_car.csv
